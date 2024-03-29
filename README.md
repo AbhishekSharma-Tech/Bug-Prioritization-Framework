@@ -3,6 +3,7 @@
 ## Course: B.Tech IT Final Year Major Project
 ## Completed By: Shubham Kumar, Abhishek Sharma, Arjun Sharma
 ## College Name: Maharaja Surajmal Institute of Technology
+## Language: Python v3.8
 
 ## Introduction
 
